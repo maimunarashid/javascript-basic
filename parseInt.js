@@ -35,3 +35,7 @@ let price5 = applePrice5 + amla;
 console.log(price5);
 
 // Adding a number and a non-numeric string result: string concatenation. Example: 20 + 'amla' = '20amla'
+let applePrice6 = 20;
+let amlaa = 'amla';
+let price6 = applePrice6 + amlaa;
+console.log(price6);
